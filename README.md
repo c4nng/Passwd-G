@@ -19,8 +19,8 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/c4nng/PasswdG.git
-   cd PasswdG
+   git clone https://github.com/c4nng/Passwd-G.git
+   cd Passwd-G
 
 ## Screenshots
 
